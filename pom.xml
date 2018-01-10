@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>at.sheldor5</groupId>
-  <artifactId>sha3</artifactId>
+  <artifactId>security-sha3MessageDigest</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>sha3</name>
+  <name>sha3MessageDigest</name>
   <url>http://maven.apache.org</url>
 
   <properties>
